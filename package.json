@@ -100,7 +100,7 @@
     "gulp-nodemon": "^2.2.1",
     "gulp-util": "^3.0.8",
     "minifier": "^0.8.1",
-    "mocha": "^3.5.0",
+    "mocha": "^10.2.0",
     "ngrok": "^3.3.0",
     "nodemon": "^1.11.0",
     "nyc": "^11.1.0",
